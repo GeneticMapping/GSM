@@ -1,0 +1,5 @@
+947 3 variant_peptide D polyphen_prediction 0.998 sift_prediction 0 Reference_seq C Variant_seq T reference_peptide G Dbxref dbSNP_137:rs28939668
+987 3 variant_peptide Y polyphen_prediction 0.999 sift_prediction 0 Reference_seq C Variant_seq T reference_peptide C Dbxref dbSNP_137:rs121918353
+1037 3 variant_peptide H polyphen_prediction 1 sift_prediction 0 Reference_seq C Variant_seq T reference_peptide R Dbxref dbSNP_137:rs121918351
+1037 1 variant_peptide C polyphen_prediction 1 sift_prediction 0 Reference_seq G Variant_seq A reference_peptide R Dbxref dbSNP_137:rs121918350
+1184 3 variant_peptide S polyphen_prediction 0.983 sift_prediction 0 Reference_seq A Variant_seq G reference_peptide L Dbxref dbSNP_137:rs121918352

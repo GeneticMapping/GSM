@@ -1,0 +1,1 @@
+892 3 variant_peptide T polyphen_prediction 0.999 sift_prediction 0 Reference_seq C Variant_seq G reference_peptide R Dbxref dbSNP_137:rs121908935
