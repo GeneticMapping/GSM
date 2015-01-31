@@ -1,0 +1,26 @@
+400 3 A>C Glu-Asp 1303 unknown germline 2.27e-01 http://omim.org/entry/107400#0004 http://www.ncbi.nlm.nih.gov/sites/entrez?Db=pubmed&Cmd=DetailsSearch&Term=22426792 polyphen 0.015 sift 1 
+237 2 T>C Val-Ala 6647 pathogenic germline 2.44e-01 http://omim.org/entry/107400#0002 http://www.ncbi.nlm.nih.gov/sites/entrez?Db=pubmed&Cmd=DetailsSearch&Term=22426792 polyphen 0 sift 0.69 
+288 2 A>T Glu-Val 17580 unknown germline 3.11e-02 http://omim.org/entry/107400#0013 http://www.ncbi.nlm.nih.gov/pubmed?Db=pubmed&Cmd=DetailsSearch&Term=16608528+20170533+21138453+22426792+2539391+301355 polyphen 0.996 sift 0 
+125 2 G>A Arg-His 709932 unknown germline 1.31e-01 http://omim.org/entry/107400#0003 http://www.ncbi.nlm.nih.gov/sites/entrez?Db=pubmed&Cmd=DetailsSearch&Term=16608528+22426792 polyphen 0.001 sift 1 
+360 1 G>A Ala-Thr 1802959 unknown germline http://omim.org/entry/107400#0029 http://www.ncbi.nlm.nih.gov/sites/entrez?Db=pubmed&Cmd=DetailsSearch&Term=2185272+2240842 polyphen 0.896 sift 0 
+139 1 G>A Gly-Ser 11558261 other germline http://omim.org/entry/107400#0030 polyphen 0.955 sift 0.07 
+77 2 C>T Ser-Phe 55819880 other germline http://omim.org/entry/107400#0039 
+366 1 G>A Glu-Lys 28929474 unknown germline 7.80e-03 http://omim.org/entry/107400#0011 http://www.ncbi.nlm.nih.gov/pubmed?Db=pubmed&Cmd=DetailsSearch&Term=16608528+20170533+21138453+22426792+2904702+3259592+3264419 polyphen 1 sift 0.04 
+247 1 C>T Arg-Cys 28929470 other 1.40e-03 polyphen 0.896 sift 0 
+341 1 G>A Asp-Asn 28929471 other polyphen 0.766 sift 0.03 
+91 2 G>A Gly-Glu 28931568 other polyphen 0.99 sift 0 
+65 2 T>C Leu-Pro 28931569 unknown germline http://omim.org/entry/107400#0016 http://www.ncbi.nlm.nih.gov/sites/entrez?Db=pubmed&Cmd=DetailsSearch&Term=3262617 polyphen 0.572 sift 0.15 
+116 2 T>A Ile-Asn 28931572 other germline http://omim.org/entry/107400#0031 http://www.ncbi.nlm.nih.gov/sites/entrez?Db=pubmed&Cmd=DetailsSearch&Term=18974877 polyphen 0.991 sift 0 
+63 1 C>T Arg-Cys 28931570 other 1.40e-03 http://omim.org/entry/107400#0018 polyphen 0.98 sift 0 
+387 1 G>A Glu-Lys 121912712 other germline 5.00e-04 http://omim.org/entry/107400#0010 polyphen 0.039 sift 0.9 
+377 3 A>T Leu-Phe 28929473 other germline http://omim.org/entry/107400#0022 polyphen 0.002 sift 0.36 
+382 2 T>G Met-Arg 121912713 pathogenic germline http://omim.org/entry/107400#0026 http://www.ncbi.nlm.nih.gov/sites/entrez?Db=pubmed&Cmd=DetailsSearch&Term=1569192+3484756+6604220+8182727 polyphen 0.023 sift 0.1 
+280 2 A>T Asp-Val 121912714 other germline http://omim.org/entry/107400#0019 http://www.ncbi.nlm.nih.gov/sites/entrez?Db=pubmed&Cmd=DetailsSearch&Term=1504305+2240842+2787118+8364590 polyphen 0.873 sift 0 
+365 1 G>A Asp-Asn 143370956 unknown germline http://omim.org/entry/107400#0008 http://www.ncbi.nlm.nih.gov/sites/entrez?Db=pubmed&Cmd=DetailsSearch&Term=2240842 polyphen 0.557 sift 0.2 
+228 1 G>A Glu-Lys 199422208 unknown germline http://omim.org/entry/107400#0009 polyphen 0.001 sift 0.91 
+393 2 C>T Pro-Leu 199422209 unknown germline http://omim.org/entry/107400#0014 http://www.ncbi.nlm.nih.gov/sites/entrez?Db=pubmed&Cmd=DetailsSearch&Term=1552539 polyphen 0.999 sift 0 
+184 3 C>G Tyr-Ter 199422210 unknown germline http://omim.org/entry/107400#0020 http://www.ncbi.nlm.nih.gov/sites/entrez?Db=pubmed&Cmd=DetailsSearch&Term=3040726 
+241 1 A>T Lys-Ter 199422211 unknown germline http://omim.org/entry/107400#0021 
+26 2 A>C Asp-Ala 199422212 unknown germline http://omim.org/entry/107400#0027 http://www.ncbi.nlm.nih.gov/sites/entrez?Db=pubmed&Cmd=DetailsSearch&Term=2240842 polyphen 0.214 sift 0.16 
+109 2 C>T Thr-Met 199422213 unknown germline http://omim.org/entry/107400#0040 polyphen 0.84 sift 0 
+184 3 C>- Tyr-Terfs 267606950 untested http://omim.org/entry/107400#0020 

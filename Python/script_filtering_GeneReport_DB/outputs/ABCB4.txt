@@ -1,0 +1,9 @@
+590 2 G>A Arg-Gln 45575636 pathogenic 7.30e-03 http://omim.org/entry/171060#0012 polyphen 0.985 sift 0 
+175 1 A>G Thr-Ala 58238559 pathogenic germline 6.00e-03 http://omim.org/entry/171060#0006 polyphen 0.849 sift 0.07 
+320 2 C>T Ser-Phe 72552778 pathogenic germline http://omim.org/entry/171060#0005 polyphen 0.938 sift 0 
+144 1 C>T Arg-Ter 72552780 pathogenic http://omim.org/entry/171060#0011 
+957 1 C>T Arg-Ter 121918440 pathogenic germline http://omim.org/entry/171060#0002 
+546 2 C>A Ala-Asp 121918441 pathogenic germline http://omim.org/entry/171060#0004 polyphen 0.996 sift 0 
+1168 1 C>T Pro-Ser 121918442 pathogenic germline http://omim.org/entry/171060#0007 polyphen 0.978 sift 0 
+403 1 T>C Tyr-His 121918443 pathogenic germline http://omim.org/entry/171060#0010 polyphen 0.585 sift 0 
+1016 1 C>T Leu-= 149043617 untested somatic http://www.ncbi.nlm.nih.gov/sites/entrez?Db=pubmed&Cmd=DetailsSearch&Term=21499247 

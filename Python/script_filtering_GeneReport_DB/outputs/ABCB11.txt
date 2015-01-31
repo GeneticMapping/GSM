@@ -1,0 +1,5 @@
+432 2 G>C Arg-Thr 121908935 pathogenic germline http://omim.org/entry/603201#0006 polyphen 0.999 sift 0 
+1057 1 C>T Arg-Ter 72549397 pathogenic germline http://omim.org/entry/603201#0007 
+575 1 C>T Arg-Ter 72549401 pathogenic germline http://omim.org/entry/603201#0001 
+297 2 A>G Glu-Gly 11568372 pathogenic germline http://omim.org/entry/603201#0002 
+90 3 T>C Phe-= 4148777 4.8e-2 http://www.ncbi.nlm.nih.gov/sites/entrez?Db=pubmed&Cmd=DetailsSearch&Term=17903296 

@@ -1,0 +1,5 @@
+274 2 G>A Gly-Asp 28939668 pathogenic germline http://omim.org/entry/601920#0010 polyphen 0.998 sift 0 
+184 1 C>T Arg-Cis 121918350 pathogenic germline http://omim.org/entry/601920#0005 polyphen 1 sift 0 
+184 2 G>A Arg-His 121918351 pathogenic germline http://omim.org/entry/601920#0006 polyphen 1 sift 0 
+37 2 T>C Leu-Ser 121918352 pathogenic germline http://omim.org/entry/601920#0011 polyphen 0.983 sift 0 
+234 2 G>A Cys-Tyr 121918353 pathogenic germline polyphen 0.999 sift 0 

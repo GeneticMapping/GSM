@@ -1,0 +1,10 @@
+70 1 G>A Asp-Asn 34719006 pathogenic germline http://omim.org/entry/602397#0010 polyphen 0.922 sift 0.27 
+288 2 T>C Leu-Ser 121909099 pathogenic germline http://omim.org/entry/602397#0003 polyphen 0.975 sift 0.01 
+308 2 G>T Gly-Val 111033609 pathogenic germline http://omim.org/entry/602397#0001 polyphen 1 sift 0 
+456 2 C>T Thr-Met 121909104 pathogenic germline http://omim.org/entry/602397#0012 polyphen 1 sift 0 
+554 1 G>A Asp-Asn 121909101 pathogenic germline http://omim.org/entry/602397#0008 polyphen 0.999 sift 0 
+602 1 C>T Arg-Ter 121909105 pathogenic germline polyphen 0.922 sift 0.27 
+661 2 T>C Ile-Thr 121909100 pathogenic germline http://omim.org/entry/602397#0006 polyphen 0.998 sift 0 
+867 1 C>T Arg-Cys 121909103 pathogenic germline http://omim.org/entry/602397#0011 polyphen 1 sift 0 
+892 1 G>A Gly-Arg 121909098 pathogenic germline http://omim.org/entry/602397#0002 polyphen 1 sift 0 
+952 2 G>A Arg-Gln 12968116 5.6e-2 http://www.ncbi.nlm.nih.gov/pubmed?Term=22001757 polyphen 0.994 sift 0.25 
